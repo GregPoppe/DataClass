@@ -1,2 +1,2 @@
 # DataClass
-Code Crated during Data Class
+Code Created during Data Class
